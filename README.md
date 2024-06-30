@@ -11,6 +11,8 @@
     <a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/vehicles-in-unreal-engine" target="_blank">Chaos Vehicle</a> Experience.</li>
   <br>
   <li>🧑‍💻Working on <a href="https://wiselabsgworks.com.br/">WiseLabs's</a></li>
+  <br>
+  <li>📦3D Low poly modeler</li>
 </div>
   
   ##
