@@ -10,7 +10,7 @@
     <a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/artificial-intelligence-in-unreal-engine?application_version=5.3" target="_blank">AI</a> and 
     <a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/vehicles-in-unreal-engine" target="_blank">Chaos Vehicle</a> Experience.</li>
   <br>
-  <li>📦3D Low Poly modeler.
+  <li>📦3D Low Poly modeler.</li>
   <br>
   <li>🧑‍💻Working on <a href="https://wiselabsgworks.com.br/">WiseLabs's</a></li>
 </div>
