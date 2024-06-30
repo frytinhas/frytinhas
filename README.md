@@ -2,7 +2,7 @@
 <div style="display: inline_block">
   <li>🥉3 years of experience with <a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-5-4-documentation">Unreal Engine.</li>
   <br>
-  <li>🥇C++ Expert | 🪢Blueprint Expert.</li>
+  <li>🥇C++ Expert | 🪢Blueprint Expert |🪟C# Basic</li>
   <br>
   <li>👤Singleplayer Expert | 👥Multiplayer Advanced</li>
   <br>
@@ -10,9 +10,9 @@
     <a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/artificial-intelligence-in-unreal-engine?application_version=5.3" target="_blank">AI</a> and 
     <a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/vehicles-in-unreal-engine" target="_blank">Chaos Vehicle</a> Experience.</li>
   <br>
-  <li>🧑‍💻Working on <a href="https://wiselabsgworks.com.br/">WiseLabs's</a></li>
+  <li>📦3D Low Poly modeler.
   <br>
-  <li>📦3D Low poly modeler</li>
+  <li>🧑‍💻Working on <a href="https://wiselabsgworks.com.br/">WiseLabs's</a></li>
 </div>
   
   ##
