@@ -2,7 +2,7 @@
 <div style="display: inline_block">
   <li>🥉3 years of experience with <a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-5-4-documentation">Unreal Engine.</li>
   <br>
-  <li>🥇C++ Expert | 🪢Blueprint Expert |🪟C# Basic</li>
+  <li>🥇C++ Expert | 🪢Blueprint Expert | 🪟C# Basic</li>
   <br>
   <li>👤Singleplayer Expert | 👥Multiplayer Advanced</li>
   <br>
