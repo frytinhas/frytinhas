@@ -6,11 +6,13 @@
   <br>
   <li>👤Singleplayer Expert | 👥Multiplayer Advanced</li>
   <br>
-  <li>🔎<a href="https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/GameplayAbilitySystem/" target="_blank">GAS</a>, <a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/enhanced-input-in-unreal-engine" target="_blank">EIS</a>, 
-    <a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/artificial-intelligence-in-unreal-engine?application_version=5.3" target="_blank">AI</a> and 
-    <a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/vehicles-in-unreal-engine" target="_blank">Chaos Vehicle</a> Experience.</li>
+  <li>🤖<a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/artificial-intelligence-in-unreal-engine?application_version=5.3" target="_blank">  Artificial Intelligence</a> |
+  🚗<a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/vehicles-in-unreal-engine" target="_blank">  Chaos Vehicle | </a>
+  🕹️<a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/enhanced-input-in-unreal-engine" target="_blank">  Enhanced Input System</a> | <br>
+  ⚔️<a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/online-subsystem-eos-plugin-in-unreal-engine" target="_blank">  Epic Online Services</a> |
+  🎮<a href="https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/GameplayAbilitySystem/" target="_blank">  Gameplay Ability System</a></li>
   <br>
-  <li>📦3D Low Poly modeler.</li>
+  <li>📦Basic 3D modeler.</li>
   <br>
   <li>🧑‍💻Working on <a href="https://wiselabsgworks.com.br/">WiseLabs's</a></li>
 </div>
