@@ -14,8 +14,6 @@
   <br>
   <li>📦Basic 3D modeler.</li>
   <br>
-  <li>🧑‍💻Working on <a href="https://store.steampowered.com/publisher/wiselabsgameworks">WiseLabs's</a></li>
-  <br>
   <li>🛠️My Plugins in <a href="https://www.unrealengine.com/marketplace/en-US/profile/Frytinhas+Marketplace?count=20&sortBy=effectiveDate&sortDir=DESC&start=0">Unreal Marketplace</a></li>
 </div>
   
