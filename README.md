@@ -1,20 +1,20 @@
 # Hey, you can call me Gabriel<br> & I'm a <strong>Freelancer Game Developer</strong>!
 <div style="display: inline_block">
-  <li>🕓4 years of experience with <a href="https://www.unrealengine.com/">Unreal Engine.</li>
+  <li>🕓4 years of experience working with <a href="https://www.unrealengine.com/">Unreal Engine.</li>
   <br>
   <li>🥇C++ Expert | 🪢Blueprint Expert | 🪟C# Basic</li>
   <br>
-  <li>👤Singleplayer Expert | 👥Multiplayer Advanced</li>
+  <li>👤Singleplayer Expert | 👥Multiplayer Expert</li>
   <br>
   <li>🤖<a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/artificial-intelligence-in-unreal-engine?application_version=5.3" target="_blank">  Artificial Intelligence</a> |
-  🚗<a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/vehicles-in-unreal-engine" target="_blank">  Chaos Vehicle | </a>
+  🚗<a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/vehicles-in-unreal-engine" target="_blank">  Chaos Vehicle</a> |
   🕹️<a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/enhanced-input-in-unreal-engine" target="_blank">  Enhanced Input System</a> | <br>
   ⚔️<a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/online-subsystem-eos-plugin-in-unreal-engine" target="_blank">  Epic Online Services</a> |
   🎮<a href="https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/GameplayAbilitySystem/" target="_blank">  Gameplay Ability System</a></li>
   <br>
-  <li>📦Basic 3D modeler.</li>
+  <li>📦Low Poly 3D Modeler.</li>
   <br>
-  <li>🛠️My Plugins in <a href="https://www.unrealengine.com/marketplace/en-US/profile/Frytinhas+Marketplace?count=20&sortBy=effectiveDate&sortDir=DESC&start=0">Unreal Marketplace</a></li>
+  <li>🛠️My Plugins in <a href="https://www.fab.com/sellers/Frytinhas%20Marketplace">Fab.com</a></li>
 </div>
   
   ##
