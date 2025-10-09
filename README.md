@@ -1,4 +1,4 @@
-# Hey, you can call me Gabriel<br> & I'm a <strong>Freelancer Game Developer</strong>!
+# Hey, you can call me Gabriel<br> & I'm a <strong>Game Developer</strong>!
 <div style="display: inline_block">
   <li>👑Lead Developer & Co-Founder of <a href="https://neeosoft.com.br/">Neo Soft.</li>
   <br>
