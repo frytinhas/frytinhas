@@ -1,8 +1,10 @@
 # Hey, you can call me Gabriel<br> & I'm a <strong>Freelancer Game Developer</strong>!
 <div style="display: inline_block">
+  <li>👑Lead Developer & Co-Founder of <a href="https://neeosoft.com.br/">Neo Soft.</li>
+  <br>
   <li>🕓4 years of experience working with <a href="https://www.unrealengine.com/">Unreal Engine.</li>
   <br>
-  <li>🥇C++ Expert | 🪢Blueprint Expert | 🪟C# Basic</li>
+  <li>🥇C++ Expert | 🪢Blueprint Expert | 🪟C# Expert</li>
   <br>
   <li>👤Singleplayer Expert | 👥Multiplayer Expert</li>
   <br>
