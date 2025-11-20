@@ -1,5 +1,7 @@
 # Hey, you can call me Gabriel<br> & I'm a <strong>Game Developer</strong>!
 <div style="display: inline_block">
+  <li>👑<a href="https://neeosoft.com.br/">Neo Soft</a> Co-Founder</li>
+  <br>
   <li>🕓4 years of experience working with <a href="https://www.unrealengine.com/">Unreal Engine.</li>
   <br>
   <li>🥇C++ Expert | 🪢Blueprint Expert | 🪟C# Expert</li>
