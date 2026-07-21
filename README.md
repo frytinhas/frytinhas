@@ -14,7 +14,7 @@
   <br>
   <li>📦Low Poly 3D Modeler.</li>
   <br>
-  <li>🛠️My Plugins in <a href="https://www.fab.com/sellers/Frytinhas%20Marketplace">Fab.com</a></li>
+  <li>🛠️My Plugins in <a href="https://www.fab.com/sellers/Fries%20Marketplace">Fab.com</a></li>
 </div>
   
   ##
