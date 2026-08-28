@@ -1,20 +1,20 @@
 # Hey, you can call me <a href="https://frytinhas.github.io/">Gabriel</a><br> & I'm a <strong>Game Developer</strong>!
 <div style="display: inline_block">
-  <li>🕓4 years of experience working with <a href="https://www.unrealengine.com/">Unreal Engine.</li>
+  <li><a href="https://neosoftentertainment.com.br/">Neo Soft Entertainment </a>CTO and Co-founder.</li> 
   <br>
-  <li>🥇C++ Expert | 🪢Blueprint Expert | 🪟C# Expert</li>
+  <li>4 years of experience working with <a href="https://www.unrealengine.com/">Unreal Engine.</li>
   <br>
-  <li>👤Singleplayer Expert | 👥Multiplayer Expert</li>
+  <li> Native Portuguese and English B2 </li>
   <br>
-  <li>🤖<a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/artificial-intelligence-in-unreal-engine?application_version=5.3" target="_blank">  Artificial Intelligence</a> |
-  🚗<a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/vehicles-in-unreal-engine" target="_blank">  Chaos Vehicle</a> |
-  🕹️<a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/enhanced-input-in-unreal-engine" target="_blank">  Enhanced Input System</a> | <br>
-  ⚔️<a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/online-subsystem-eos-plugin-in-unreal-engine" target="_blank">  Epic Online Services</a> |
-  🎮<a href="https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/GameplayAbilitySystem/" target="_blank">  Gameplay Ability System</a></li>
+  <li>Knowledge of C++, C# and Verse</li>
   <br>
-  <li>📦Low Poly 3D Modeler.</li>
+  <li>Singleplayer and Multiplayer Gameplay Developer</li>
   <br>
-  <li>🛠️My Plugins in <a href="https://www.fab.com/sellers/Fries%20Marketplace">Fab.com</a></li>
+  <li>Task acceleration with JetBrains <a href="https://www.jetbrains.com/rider/">Rider</a> and <a href="https://openai.com/codex/">Codex</a>.</li>
+  <br>
+  <li>Experience with version control of Git, Diversion, Perforce, Subversion.</li>
+  <br>
+  <li>My Plugins in <a href="https://www.fab.com/sellers/Fries%20Marketplace">Fab.com</a></li>
 </div>
   
   ##
