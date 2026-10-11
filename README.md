@@ -4,12 +4,11 @@
   <p>An art enthusiast, I aim to develop projects that hold meaning and reflect the developers' passion.</p>
   <p>I enjoy working in a team, supporting colleagues, and turning creative ideas into reality. </p>
   <p>Currently studying Cybersecurity and Game Design.</p>
-  <h2> Bullets Points</h2>
+  <h2>Who Am I?</h2>
   <p>CTO, Co-founder and Lead Developer at <a href="https://neosoftentertainment.com.br/">Neo Soft Entertainment</a>.</p> 
   <p>4 years of experience with <a href="https://www.unrealengine.com/">Unreal Engine</a>.</p>
   <p>Native Portuguese (Brazilian) and English B2.</p>
-  <p>Experience with version control of Git, Diversion, Perforce, Subversion.</p>
-  <p>Creator of <a href="https://play.google.com/store/apps/details?id=com.neosoftapps.homefolder">Imóbi</a>, <a href="https://github.com/frytinhas/Jarvis-CLI">Jarvis</a>, <a href="https://www.fab.com/sellers/Fries%20Marketplace">Universal Systems</a> and <a href="https://www.fab.com/listings/afa21a0c-a7a2-4e71-a0f6-c1ef93ad7598">Fries Library</a>.</p>
+  <p>Creator of <a href="https://play.google.com/store/apps/details?id=com.neosoftapps.homefolder">Imóbi</a>, <a href="https://github.com/frytinhas/Jarvis-CLI">Jarvis-CLI</a>, <a href="https://www.fab.com/sellers/Fries%20Marketplace">Universal Systems</a> and <a href="https://www.fab.com/listings/afa21a0c-a7a2-4e71-a0f6-c1ef93ad7598">Fries Library</a>.</p>
 </div>
 
 ## Tools and Languages
